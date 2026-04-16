@@ -29,23 +29,22 @@ h1 {
 }
 
 h2 {
-    font-size: 24vw;
+    font-size: 3vw;
     color: #2E4057;
 }
 
 p {
-    font-size: 16vw;
+    font-size: 1.8vw;
     color: #555;
 }
 
 img {
     width: 50%;
-    height:auto;
     display: block;
     margin-bottom: 16px;
 }
 
 .list-styles {
-    font-size: 16vw;
+    font-size: 1.8vw;
     color: #555;
 }
